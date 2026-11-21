@@ -1,0 +1,12 @@
+# Generated executables and archives
+*.exe
+*.pdb
+*.zip
+bin/
+obj/
+
+# Local preferences and test artifacts
+settings.xml
+*.tmp
+tests-output/
+.vs/
